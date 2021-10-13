@@ -1,4 +1,5 @@
-:root {
+
+/*:root {
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
@@ -30,10 +31,11 @@ body.dark-theme {
   display: flex;
   justify-content: flex-end;
   padding: 16px 24px;
-}
+'62`}*/
+
 
 /* THEME SWITCH */
-.theme-switch {
+/*.theme-switch {
   display: flex;
   align-items: center;
 }
@@ -107,11 +109,11 @@ body.dark-theme {
 .theme-switch__toggle:focus + .theme-switch__track,
 .theme-switch__toggle:active + .theme-switch__track {
   box-shadow: 0 0 0 3px #2196f3;
-}
+}*/
 
 /* MENU */
 
-.menu {
+/*.menu {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -224,4 +226,4 @@ body.dark-theme {
 
 .button__icon {
   margin-right: 8px;
-}
+}*/
